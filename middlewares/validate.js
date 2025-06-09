@@ -14,6 +14,3 @@ const validation = schema => (req, res, next) => {
 };
 
 export default validation;
-
-
- 
